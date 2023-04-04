@@ -1,0 +1,58 @@
+Species_ID	Latin	Family	Genus	Growth form	Pollination type	Fruit type
+P1	Nerium oleander	Apocynaceae	Nerium	evergreen shrubs	Animal	dry fruits
+P2	Chimonanthus praecox	Calycanthaceae	Chimonanthus	deciduous shrubs	Animal	dry fruits
+P3	Platycladus orientalis	Cupressaceae	Platycladus	evergreen trees	wind-pollinated	dry fruits
+P4	Cunninghamia lanceolata	Cupressaceae	Cunninghamia	evergreen trees	wind-pollinated	dry fruits
+P5	Metasequoia glyptostroboides	Cupressaceae	Metasequoia	deciduous trees	wind-pollinated	dry fruits
+P6	Juniperus chinensis	Cupressaceae	Juniperus	evergreen trees	wind-pollinated	dry fruits
+P7	Diospyros kaki	Ebenaceae	Diospyros	deciduous trees	Animal	fleshy fruits
+P8	Triadica sebifera	Euphorbiaceae	Sapium	deciduous shrubs or trees	wind-pollinated	dry fruits
+P9	Robinia pseudoacacia	Fabaceae	Robinia	deciduous trees	Animal	dry fruits
+P10	Albizia julibrissin	Fabaceae	Albizia	deciduous trees	Animal	dry fruits
+P11	Styphnolobium japonicum	Fabaceae	Sophora	deciduous trees	Animal	dry fruits
+P12	Cercis chinensis	Fabaceae	Cercis	deciduous shrubs	Animal	dry fruits
+P13	Amorpha fruticosa	Fabaceae	Amorpha	deciduous shrubs	Animal	dry fruits
+P14	Wisteria sinensis	Fabaceae	Wisteria	deciduous vine	Animal	dry fruits
+P15	Castanea mollissima	Fagaceae	Castanea	deciduous trees	wind-pollinated	dry fruits
+P16	Ginkgo biloba	Ginkgoaceae	Ginkgo	deciduous trees	wind-pollinated	fleshy fruits
+P17	Pterocarya stenoptera	Juglandaceae	Pterocarya	deciduous trees	wind-pollinated	dry fruits
+P18	Juglans regia	Juglandaceae	Juglans	deciduous trees	wind-pollinated	dry fruits
+P19	Punica granatum	Lythraceae	Punica	deciduous shrubs or trees	Animal	fleshy fruits
+P20	Lagerstroemia indica	Lythraceae	Lagerstroemia	deciduous shrubs or small trees	Animal	dry fruits
+P21	Magnolia grandiflora	Magnoliaceae	Magnolia	evergreen trees	Animal	dry fruits
+P22	Yulania denudata	Magnoliaceae	Magnolia	deciduous trees	Animal	dry fruits
+P23	Yulania liliiflora	Magnoliaceae	Magnolia	deciduous shrubs	Animal	dry fruits
+P24	Hibiscus syriacus	Malvaceae	Hibiscus	deciduous shrubs	Animal	dry fruits
+P25	Firmiana simplex	Malvaceae	Firmiana	deciduous trees	Animal	dry fruits
+P26	Melia azedarach	Meliaceae	Melia	deciduous trees	Animal	fleshy fruits
+P27	Broussonetia papyifera	Moraceae	Broussonetia	deciduous trees	wind-pollinated	fleshy fruits
+P28	Morus alba	Moraceae	Morus	deciduous shrubs or  trees	wind-pollinated	fleshy fruits
+P29	Fraxinus chinensis	Oleaceae	Fraxinus	deciduous trees	wind-pollinated	dry fruits
+P30	Forsythia suspensa	Oleaceae	Forsythia	deciduous shrubs	Animal	dry fruits
+P31	Osmanthus fragrans	Oleaceae	Osmanthus	evergreen? shrubs	Animal	fleshy fruits 
+P32	Ligustrum lucidum	Oleaceae	Ligustrum	evergreen trees or shrubs	Animal	fleshy fruits
+P33	Jasminum nudiflorum	Oleaceae	Jasminum	deciduous shrubs	Animal	fleshy fruits
+P34	Syringa oblata	Oleaceae	Syringa	deciduous shrubs or small trees	Animal	dry fruits
+P35	Paeonia suffruticosa	Paeoniaceae	Paeonia	deciduous shrubs	Animal	dry fruits
+P36	Paulownia fortunei	Paulowniaceae	Paulownia	deciduous trees	Animal	dry fruits
+P37	Pinus massoniana	Pinaceae	Pinus	evergreen trees	wind-pollinated	dry fruits
+P38	Pinus tabulaeformis	Pinaceae	Pinus	evergreen trees	wind-pollinated	dry fruits
+P39	Platanus orientalis	Platanaceae	Platanus	deciduous trees	wind-pollinated	dry fruits
+P40	Ziziphus jujuba	Rhamnaceae	Ziziphus	deciduous trees	Animal	fleshy fruits
+P41	Prunus × yedoensis	Rosaceae	Cerasus	deciduous trees	Animal	fleshy fruits
+P42	Pyrus betulaefolia	Rosaceae	Pyrus	deciduous trees	Animal	fleshy fruits
+P43	Prunus salicina	Rosaceae	Prunus	deciduous trees	Animal	fleshy fruits
+P44	Eriobotrya japonica	Rosaceae	Eriobotrya	evergreen trees	Animal	fleshy fruits
+P45	Amygdalus davidiana	Rosaceae	Amygdalus	deciduous trees	Animal	fleshy fruits
+P46	Armeniaca vulgaris	Rosaceae	Armeniaca	deciduous trees	Animal	fleshy fruits
+P47	Amygdalus triloba	Rosaceae	Amygdalus	deciduous shrubs or small trees	Animal	fleshy fruits
+P48	Sorbaria sorbifolia	Rosaceae	Sorbaria	deciduous shrubs	Animal	dry fruits
+P49	Salix babylonica	Salicaceae	Salix	deciduous trees	Animal	dry fruits
+P50	Salix matsudana	Salicaceae	Salix	deciduous trees	Animal	dry fruits
+P51	Populus × canadensis	Salicaceae	Populus	deciduous trees	wind-pollinated	dry fruits
+P52	Populus tomentosa	Salicaceae	Populus	deciduous trees	wind-pollinated	dry fruits
+P53	Populus simonii	Salicaceae	Populus	deciduous trees	wind-pollinated	dry fruits
+P54	Koelreuteria paniculata	Sapindaceae	Koelreuteria	deciduous trees	Animal	dry fruits
+P55	Ailanthus altissima	Simaroubaceae	Ailanthus	deciduous trees	Animal	dry fruits
+P56	Camellia oleifera	Theaceae	Camellia	deciduous trees，shrubs	Animal	dry fruits
+P57	Ulmus pumila	Ulmaceae	Ulmus	deciduous trees	wind-pollinated	dry fruits

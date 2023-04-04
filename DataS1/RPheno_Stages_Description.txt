@@ -1,0 +1,21 @@
+#This file includes the description of ten reproductive phenology stages (S1-S10).
+
+S1: When the scales of the buds begin to separate, the sides show a pale linear or angular shape. Enlarged bud for woody plants with bare buds are not recorded, as in Chinese Wingmut (Pterocarya stenoptera). 
+
+S2: When the scales of a bud split, the upper part of the bud becomes elongated by a freshly colored tip or by forming a new bract, as in elm (Ulmus pumila). The bud of Magnolia (Yulania denudata ) opens, villous outside the scale split from layer after layer. When the top of the bud is seen, it is the flower bud opening period and also the period when the flower bud appears.
+
+S3: A bud opens to show its characteristics, either as a single bud or as some buds in an inflorescence. A bud formed in the previous year opens in the spring of the following year or forms and opens in the same year.
+
+S4: flowering initiation is observed in more than half of the selected trees where one or more flowers begin to fully open their petals. If only one plant can be observed, one or more of the petals begin to fully open, indicating the initiation of flowering.
+
+S5: More than half of the flower buds on the trees are in bloom, more than half of the catkins spilled pollen, or more than half of the catkins are loose and drooping. The conifers are not recorded as flowering peaking.
+
+S6: Very few flowers remain on the observed trees at the end of flowering. The end of anthesis is when conifers cease to shed pollen. In wind-pollinated trees, the catkins stop discharging pollen or most of the catkins drop during the late flowering period.
+
+S7: In the selected species of several trees, more than half of the trees are seen to have one or several fruits, which is the early fruiting stage.  If only one plant can be observed, there are one or more fruits, which is the beginning of fruiting.
+
+S8: Half of the fruits on the trees are ripe.
+
+S9: The initial stage of fruit abscission is when the observed trees begin to abscise. Pinus undergoes seed dispersal, Cypress undergoes fruit shedding, Poplar and Willow have catkins, while  Elm and Quercus drop fruit or seeds, etc. Some pods open after ripening, and when the pods open, it is marked as the beginning of fruit shedding.
+
+S10: The few fruits left on the observed trees are at the end of fruit shedding.
